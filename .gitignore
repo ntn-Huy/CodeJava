@@ -1,0 +1,12 @@
+# Bỏ qua thư mục cấu hình của VS Code
+.vscode/
+
+# Bỏ qua các file biên dịch của Java/C/C++
+*.class
+*.exe
+*.o
+*.out
+
+# Bỏ qua các file hệ điều hành tự sinh ra
+.DS_Store    
+Thumbs.db    
