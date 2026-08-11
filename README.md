@@ -1,4 +1,4 @@
-<img width="200" height="125" alt="Image" src="https://github.com/user-attachments/assets/44fc14db-421c-48be-bc7e-6c122c55c262" />
+
 <h1 align="center">☕ Kho Lưu Trữ: JavaCode</h1>
 
 <p align="center">
