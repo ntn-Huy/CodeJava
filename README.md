@@ -24,7 +24,7 @@ Repository này được tạo ra để:
 ## 📂 Cấu trúc thư mục (Dự kiến)
 Dưới đây là cách sắp xếp các bài học trong repo này (bạn có thể thay đổi tùy ý):
 
-- **`🌱 01_Basics/`**: Cú pháp cơ bản, kiểu dữ liệu, vòng lặp, câu lệnh rẽ nhánh.
+- **`🌱 01_Example/`**: Cú pháp cơ bản, kiểu dữ liệu, vòng lặp thực hành các ví dụ của Thầy.
 - **`📦 02_OOP/`**: Lập trình hướng đối tượng (Class, Object, Inheritance, Polymorphism,...).
 - **`🗂️ 03_DataStructures/`**: Cấu trúc dữ liệu và giải thuật trong Java (Array, List, Map,...).
 - **`🚀 04_Projects/`**: Các bài tập lớn hoặc dự án mini thực hành tổng hợp.
