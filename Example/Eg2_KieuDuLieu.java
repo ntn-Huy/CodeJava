@@ -1,4 +1,4 @@
-public class Eg2 {
+public class Eg2_KieuDuLieu {
     public static void main (String[] args) {
         // 1.Cac kieu du lieu
         int age = 20;

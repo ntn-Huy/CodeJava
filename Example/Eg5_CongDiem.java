@@ -9,9 +9,8 @@
     * Tu dong in ra cot diem thuong ky va diem giua ky
 */
 
-
 import java.util.Scanner;
-public class Eg5 {
+public class Eg5_CongDiem {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
 
@@ -32,6 +31,8 @@ public class Eg5 {
         System.out.print("Nhap diem gk: ");
         double gk = scanner.nextDouble();
         scanner.nextLine();
+        
+        // Nhap so vote
         System.out.println("Nhap so vote: ");
         int vote = scanner.nextInt();
 
@@ -49,6 +50,7 @@ public class Eg5 {
         } else if (vote >= 10){
             diemCongTk=1;
         }
+
         // Cong diem
         tk1 += diemCongTk;
         tk2 += diemCongTk;
@@ -58,15 +60,15 @@ public class Eg5 {
         if (tk2>10){tk2=10;}
         if (tk3>10){tk3=10;}
         if (gk>10){gk=10;}
+
         // Hien thi
         System.out.println("Sinh vien: "+name);
         System.out.println("Diem tk 1: "+tk1);
         System.out.println("Diem tk 2: "+tk2);
         System.out.println("Diem tk 3: "+tk3);
         System.out.println("Diem gk : "+gk);
-        scanner.close();
-    }
-    
 
-    
+
+        scanner.close();
+    } 
 }
