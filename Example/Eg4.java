@@ -15,5 +15,6 @@ public class Eg4 {
             n /= 10;
         }
         System.out.println("So dao nguoc cua no la: " + reverse);
-    }
+        scanner.close();
+    }  
 }
