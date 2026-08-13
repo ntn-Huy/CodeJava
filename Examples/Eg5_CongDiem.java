@@ -1,3 +1,4 @@
+
 /* Bai toan tinh diem vote
     * Diem thuong ky: Neu 10 vote vao cac cot thuong ky (co 3 cot)
     * Neu 20 vote cong 2 diem vao tung cot cua diem thuong ky
